@@ -1,0 +1,20 @@
+.App {
+    font-family: serif;
+    text-align: center;
+  }
+  
+  .row {
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  .letter {
+    border-color: grey;
+    border-width: 3;
+    width: 40;
+    height: 40;
+    justify-content: center;
+    align-items: center;
+    margin: 5;
+  }
+  
